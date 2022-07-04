@@ -1,36 +1,52 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0%;  
+    margin: 0;  
 }
 
 h1{
     font-size: 50px;
     
 }
+.marsin{
+   margin-left: 70px;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    }
+.top-bannar{
+
+    
+    
+}
 section{
     display: flex;
+    margin-top:500px;
 }
 span{
     color: orange;
 }
 .helf-weith{
+    
     width: 100%;
-    padding: 2%;
+    padding-left: 2%;
+    height: 100px;
 }
-.helf-weith image{
-    text-align: justify;
-    width: 40%;
-    padding-left: 5%;
-}
+
+
 .link-button{
+    
     text-decoration: none;
     color: beige;
     padding: 10px 40px;
+    font-weight: 700;
     border-radius: 5px;
     background-image: linear-gradient(orange,tomato);
 }
 .top-bannar{
     background-image: url(iamge/Picsart_22-07-04_10-38-33-788.png);
+    
     background-repeat: no-repeat;
-    margin: 0%
+    margin: 0%;
+}
+.drem{
+   
 }
